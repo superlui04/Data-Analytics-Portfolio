@@ -19,7 +19,7 @@ I turn raw data into clear insights that drive smarter business decisions.
 - Power BI dashboard to track expenses and highlight spending trends.  
 - Partnered with DAP for requirements gathering and analysis.  
 - **Skills:** ETL, Data Cleaning, Visualization  
-![Finance Dashboard](Personal%20Finance%20Dashboard.png)  
+![Finance Dashboard](https://github.com/superlui04/Finance-Dashboard)
 
 ---
 
@@ -32,7 +32,7 @@ I turn raw data into clear insights that drive smarter business decisions.
 ### LT Dashboard *(Jul 2024)*  
 - Volunteer project dashboard measuring conversion rates & time spent.  
 - Built with Google Data Studio.  
-![LT Dashboard](LT%20Dashboard.png)  
+
 
 ---
 
