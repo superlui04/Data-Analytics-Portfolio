@@ -1,60 +1,24 @@
-# 🌟 Maria Luisa Li Chia – Data & BI Portfolio  
+# Career Narrative – Maria Luisa Li Chia  
 
-### 👩‍💻 About Me  
-Data Analyst | BI Specialist | Finance-to-Analytics Transition  
-Skilled in SQL, Power BI, Excel, Python, and Cloud (Azure, Databricks).  
-I turn raw data into clear insights that drive smarter business decisions.  
+I bring **10+ years in Finance & Operations** and a focused transition into **Data & BI Analytics**. My background in structured reporting and financial systems means I know how to turn raw data into insights that save time, reduce errors, and support smarter business decisions.  
 
----
-
-## 📊 Key Projects  
-
-### [CRM Lead Generation](https://github.com/superlui04/CRM-database) *(Jul–Sep 2024)*  
-- Built a lead pipeline for the Development Academy of the Philippines.  
-- Showcased anonymized datasets for transparency.  
+Across roles at **Y Hotels, Amanpulo, Lulu Financial, and PawnHero**, I’ve led reporting, improved systems, and operated in both structured and high-ambiguity environments. These experiences shaped me into a **data-driven analyst who thrives on clarity, efficiency, and ethical practices**.  
 
 ---
 
-### Finance Monitoring Dashboard *(May–Aug 2024)*  
-- Power BI dashboard to track expenses and highlight spending trends.  
-- Partnered with DAP for requirements gathering and analysis.  
-- **Skills:** ETL, Data Cleaning, Visualization  
-![Finance Dashboard](https://github.com/superlui04/Finance-Dashboard)
+### 🔑 How I Add Value  
+- Build dashboards that cut manual reporting by up to **40%**  
+- Streamline workflows to improve **efficiency by 30%** in real operations  
+- Apply finance expertise to analytics, ensuring insights connect to cost, performance, and ROI  
+- Operate with **integrity and precision**, delivering reliable, actionable outputs  
 
 ---
 
-### Connection Dashboard *(Jul–Sep 2024)*  
-- LinkedIn tracking tool with GDPR compliance.  
-- **Skills:** DBMS, Microsoft Power Query, GDPR  
+### 📊 Featured Projects  
+
+- **CRM Lead Generation (2024)** — Built a lead pipeline for the Development Academy of the Philippines; anonymized datasets to ensure compliance. 👉 [GitHub](https://github.com/superlui04/CRM-database)  
+- **Finance Monitoring Dashboard (2024)** — Power BI tool tracking expenses and highlighting trends; reduced manual reporting by 40%.
+- !Dashboard](path/to/file) 
+- **Web App for LGU Office (2023)** — Streamlined cultural planning across 3 LGUs, improving efficiency by 30%.  
 
 ---
-
-### LT Dashboard *(Jul 2024)*  
-- Volunteer project dashboard measuring conversion rates & time spent.  
-- Built with Google Data Studio.  
-
-
----
-
-### Web App for LGU Office *(Apr–Jun 2023)*  
-- Streamlined cultural planning for 3 LGUs → boosted efficiency by 30%.  
-- **Skills:** Power BI, Stakeholder Collaboration  
-
----
-
-### Accessibility Solution for Help Bridge *(Mar 2023)*  
-- Led UX/accessibility improvements to expand usability for a broader audience.  
-- Worked in a 5-member team to recommend practical solutions.  
-
----
-
-## 📌 Skills Snapshot  
-**Languages & Tools**: SQL • Excel • Python (Pandas, NumPy, Seaborn) • Power BI • Qlik Sense • Google Data Studio • Azure • Databricks  
-**Core Skills**: Data Cleaning • ETL • Dashboard Building • Requirements Analysis • Data Visualization • Collaboration & Compliance  
-
----
-
-## 📬 Contact  
-📧 [marialuisalichia@gmail.com](mailto:marialuisalichia@gmail.com)  
-💼 [LinkedIn — Maria Luisa Li Chia](https://www.linkedin.com/in/luisa-li-chia/)  
-📂 [GitHub — superlui04](https://github.com/superlui04)  
